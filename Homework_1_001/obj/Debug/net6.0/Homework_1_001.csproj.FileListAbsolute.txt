@@ -1,0 +1,15 @@
+/Users/imac/Desktop/C# Homeworks/Homework_1_001/bin/Debug/net6.0/Homework_1_001
+/Users/imac/Desktop/C# Homeworks/Homework_1_001/bin/Debug/net6.0/Homework_1_001.deps.json
+/Users/imac/Desktop/C# Homeworks/Homework_1_001/bin/Debug/net6.0/Homework_1_001.runtimeconfig.json
+/Users/imac/Desktop/C# Homeworks/Homework_1_001/bin/Debug/net6.0/Homework_1_001.dll
+/Users/imac/Desktop/C# Homeworks/Homework_1_001/bin/Debug/net6.0/Homework_1_001.pdb
+/Users/imac/Desktop/C# Homeworks/Homework_1_001/obj/Debug/net6.0/Homework_1_001.csproj.AssemblyReference.cache
+/Users/imac/Desktop/C# Homeworks/Homework_1_001/obj/Debug/net6.0/Homework_1_001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/imac/Desktop/C# Homeworks/Homework_1_001/obj/Debug/net6.0/Homework_1_001.AssemblyInfoInputs.cache
+/Users/imac/Desktop/C# Homeworks/Homework_1_001/obj/Debug/net6.0/Homework_1_001.AssemblyInfo.cs
+/Users/imac/Desktop/C# Homeworks/Homework_1_001/obj/Debug/net6.0/Homework_1_001.csproj.CoreCompileInputs.cache
+/Users/imac/Desktop/C# Homeworks/Homework_1_001/obj/Debug/net6.0/Homework_1_001.dll
+/Users/imac/Desktop/C# Homeworks/Homework_1_001/obj/Debug/net6.0/refint/Homework_1_001.dll
+/Users/imac/Desktop/C# Homeworks/Homework_1_001/obj/Debug/net6.0/Homework_1_001.pdb
+/Users/imac/Desktop/C# Homeworks/Homework_1_001/obj/Debug/net6.0/Homework_1_001.genruntimeconfig.cache
+/Users/imac/Desktop/C# Homeworks/Homework_1_001/obj/Debug/net6.0/ref/Homework_1_001.dll
