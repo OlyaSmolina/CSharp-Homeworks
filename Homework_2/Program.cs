@@ -45,8 +45,7 @@ Console.WriteLine($"The third digit of your numer is {digit} ");
 
 bool DayOff (int n)
 {
-    if (n == 6) return true;
-    if (n == 7) return true;
+    if (n == 6 || n ==7) return true;
     else return false;
 }
 Console.WriteLine($"Input your number from 1 to 7: ");
