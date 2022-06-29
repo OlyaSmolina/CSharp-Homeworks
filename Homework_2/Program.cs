@@ -17,7 +17,7 @@ Console.WriteLine($"The second digit of your number is {result}");
 */
 
 // Программа, которая выводит третью цифру заданного числа или сообщает, что третьей цифры нет
- 
+/* 
 int ShowThirdDigit (int number)
 { 
     while (number > 999)
@@ -39,3 +39,21 @@ if (number < 100)
 
 int digit = ShowThirdDigit(number);
 Console.WriteLine($"The third digit of your numer is {digit} ");
+*/
+
+// Программа, которая принимает на вход цифру дня недели и проверяет, является ли этот день выходным.
+
+bool DayOff (int n)
+{
+    if (n == 6) return true;
+    if (n == 7) return true;
+    else return false;
+}
+Console.WriteLine($"Input your number from 1 to 7: ");
+int n = Convert.ToInt32(Console.ReadLine());
+
+bool result = DayOff (n);
+if(result == true)
+Console.WriteLine($"Today is the day off!");
+else
+Console.WriteLine($"Today is the working day. Try again tomorrow! ;)");
