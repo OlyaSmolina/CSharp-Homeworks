@@ -28,6 +28,24 @@
 
 // Программа, которая принимает на вход пятизначное число и проверяет, является ли оно палиндромом.
 
+Console.WriteLine("Input your five-digit number: ");
+int n = Convert.ToInt32(Console.ReadLine());
+
+string number = n.ToString();
+
+void Palindrome (string number)
+
+{
+    if (number[0] == number[4] || number[1] == number[3])
+    {
+        Console.WriteLine("Yes, it's palindrome");
+    }
+    else Console.WriteLine("No, it's not palindrome");
+}
+
+Palindrome(number);
+
+
 // bool Palindrome (int n)
 // {
 //     int[] array =  int[5];
@@ -56,17 +74,17 @@
 
 // Программа, которая принимает на вход число N и выдаёт таблицу кубов чисел от 1 до N
 
-void ShowKubus(int N)
-{
-    int count = 1;
-    while (count <= N)
-    {
-        int cube = count * count * count;
-        Console.Write(cube + " ");
-        count ++; 
-    }
-}
+// void ShowKubus(int N)
+// {
+//     int count = 1;
+//     while (count <= N)
+//     {
+//         int cube = count * count * count;
+//         Console.Write(cube + " ");
+//         count ++; 
+//     }
+// }
 
-Console.WriteLine("Input your number ");
-int number = Convert.ToInt32(Console.ReadLine());
-ShowKubus(number);
+// Console.WriteLine("Input your number ");
+// int number = Convert.ToInt32(Console.ReadLine());
+// ShowKubus(number);
