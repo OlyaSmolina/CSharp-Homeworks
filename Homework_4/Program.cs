@@ -20,21 +20,21 @@
 
 // Программа, которая задаёт массив из 8 чисел и выводит их на экран
 
-// void FillRandomArray(int[] numbers)
-// {
-//     int size = numbers.Length;
-//     for (int index = 0; index < size; index++)
-//     numbers[index] = new Random().Next(1, 8);  
-// }
+void FillRandomArray(int[] numbers)
+{
+    int size = numbers.Length;
+    for (int index = 0; index < size; index++)
+    numbers[index] = new Random().Next(1, 8);  
+}
 
-// void ShowRandomArray(int[] num)
-// {
-//     int length = num.Length;
-//     for (int i = 0; i < length; i++)
-//     System.Console.Write(num[i] + " ");
-// }
-// int[] array = new int [8];
+void ShowRandomArray(int[] num)
+{
+    int length = num.Length;
+    for (int i = 0; i < length; i++)
+    System.Console.Write(num[i] + " ");
+}
+int[] array = new int [8];
 
-// FillRandomArray(array);
-// ShowRandomArray(array);
+FillRandomArray(array);
+ShowRandomArray(array);
 
